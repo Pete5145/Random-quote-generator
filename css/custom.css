@@ -1,0 +1,29 @@
+body{
+    font-family: "Glegoo";
+    background-color: rgb(43,74,100);
+}
+
+.quote-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.box{
+    background-color: #eee;
+    padding: 20px;
+    min-height: 220px;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+#btn{
+    background-color: rgb(43,74,100);
+    border: #000;
+    color: #eee;
+}
+#author-box{
+    text-align: right;
+    font-size: 17px;
+    
+}
